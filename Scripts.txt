@@ -1,0 +1,13 @@
+# Nossos códigos devem estar no File Cabbinet > Suite Script
+
+# Só podemos implentar em 1 por vez
+
+-> getValue - pegar valor de id de um campo 
+-> getText - pega o texto do campo
+
+-> setValue - passar o valor para um field
+-> setText - passa um texto para um field
+
+* pageInit -> Executa sempre que a pagina é carregada (Somente no criar, copiar ou editar)
+
+* fieldChance -> É chamada quando o campo sofre alteração

@@ -1,0 +1,28 @@
+** Extensões ** 
+
+-> NetSUite Field Explorer - Busca o ID dos campos no NetSuite e seus valores, funciona apenas nos formularios  
+
+-> NetSuite Scripted Records - mostra todos os scripts que estão rodando na nossa pagina, status, dono, funções e etc
+
+-> NetSuite Search Code Export - Auxilia em exportar os scripts de busca salva no NetSuite 
+
+-> NetSuite Helper For Yours Works - conseguimos fazer alteração dos campos e pega o valor com base nas suas posições nas listas e tambem conseguimos manipular os nossos fields 
+
+-> NetSuite Show Field ids - Copia os códigos dos ids (shift + click para copiar ) (ctrl +shift + f pesquisar o id) pesquisa os campos
+
+# Sempre que formos buscar algo que seja dentro de uma lista devemos utilizar o ID interno
+
+# Para ativar vamos em Set Preferences e ativamos Show internal IDS
+
+# Body Field não está dentro de uma sublista 
+
+# Inline Field - Fica dentro das sublistas 
+
+# Tipo de evento - quando o script vai ser utilizado
+
+
+
+** Suite Apps **
+
+SuiteApps -> São os aplicativos que existem dentro do Net Suite 
+
